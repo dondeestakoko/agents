@@ -1,0 +1,550 @@
+ids,urgence,subjects,categories
+b0_m1,Anodine,Demande de mise à jour de l’adresse e-mail dans le portail RH,Demande administrative
+b0_m2,Faible,Problème de connexion à la plateforme de formation en ligne,Problème d’accès / authentification
+b0_m3,Modérée,Bug sur le tableau de bord des ventes,Bug ou dysfonctionnement d’un service
+b0_m4,Élevée,Problème technique informatique : serveur de messagerie indisponible,Problème technique informatique
+b0_m5,Critique,Incident de sécurité : fuite de données sensibles,Problème d’accès / authentification
+b1_m1,Anodine,Demande d'information sur les formations disponibles,Demande d'information
+b1_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b1_m3,Modérée,Demande de support pour un logiciel spécifique,Demande de support utilisateur
+b1_m4,Élevée,Problème d'accès aux données confidentielles,Problème d'accès / authentification
+b1_m5,Critique,Panne du système de gestion des commandes,Bug ou dysfonctionnement d’un service
+b2_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b2_m2,Faible,Problème de connexion à l'outil intranet,Problème d’accès / authentification
+b2_m3,Modérée,Erreur 500 sur la page de facturation,Bug ou dysfonctionnement d’un service
+b2_m4,Élevée,Aide pour l'installation de la nouvelle version du logiciel de gestion,Demande de support utilisateur
+b2_m5,Critique,"Panne réseau dans le bâtiment A, arrêt complet du service",Problème technique informatique
+b3_m1,Anodine,Demande de congé pour la semaine du 12 mars,Demande administrative
+b3_m2,Faible,Problème de connexion au VPN,Problème d’accès / authentification
+b3_m3,Modérée,Erreur 500 sur le portail client,Bug ou dysfonctionnement d’un service
+b3_m4,Élevée,Panne du serveur de messagerie,Problème technique informatique
+b3_m5,Critique,Perte de données sur le serveur de sauvegarde,Demande de support utilisateur
+b4_m1,Anodine,Demande de mise à jour de photo de profil,Demande administrative
+b4_m2,Faible,Problème de connexion à Outlook depuis le VPN,Problème d’accès / authentification
+b4_m3,Modérée,Bug affichage des KPI dans le tableau de bord mensuel,Bug ou dysfonctionnement d’un service
+b4_m4,Élevée,Assistance requise pour l'accès aux dossiers partagés,Demande de support utilisateur
+b4_m5,Critique,Panne critique du serveur principal – perte de données,Problème technique informatique
+b5_m1,Anodine,Demande de renseignements sur les formations disponibles,Demande administrative
+b5_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b5_m3,Modérée,Demande de support pour un logiciel spécifique,Demande de support utilisateur
+b5_m4,Élevée,Problème d'accès aux données confidentielles,Problème d'accès / authentification
+b5_m5,Critique,Panne majeure du système de gestion de production,Bug ou dysfonctionnement d'un service
+b6_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b6_m2,Faible,Problème de connexion à l’outil intranet,Problème d’accès / authentification
+b6_m3,Modérée,Erreur de facturation dans le portail client,Bug ou dysfonctionnement d’un service
+b6_m4,Élevée,Panne du serveur de messagerie interne,Problème technique informatique
+b6_m5,Critique,Urgent : Perte de données sur le serveur de sauvegarde,Demande de support utilisateur
+b7_m1,Anodine,Demande de fournitures de bureau,Demande administrative
+b7_m2,Faible,Bug mineur sur la page de connexion du portail interne,Bug ou dysfonctionnement d’un service
+b7_m3,Modérée,Problème d’accès VPN depuis le bureau à Lyon,Problème d’accès / authentification
+b7_m4,Élevée,Imprimante réseau bloquée en file d’attente,Demande de support utilisateur
+b7_m1,Anodine,Demande de documentation pour nouveaux employés,Demande administrative
+b7_m2,Faible,Problème mineur avec l’imprimante du bureau,Problème technique informatique
+b7_m3,Modérée,Accès refusé à une application essentielle,Problème d’accès / authentification
+b7_m4,Élevée,Panne du serveur de production,Problème technique informatique
+b7_m5,Critique,Fuite de données sensible,Bug ou dysfonctionnement d’un service
+b8_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b8_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b8_m3,Modérée,Bug dans l'application de gestion de projet,Bug ou dysfonctionnement d’un service
+b8_m4,Élevée,Problème d'accès aux données confidentielles,Problème d’accès / authentification
+b8_m5,Critique,Attaque de phishing en cours contre nos employés,Problème technique informatique
+b9_m1,Anodine,Demande de congé pour la semaine du 10 avril,Demande administrative
+b9_m2,Faible,Mot de passe oublié pour l'accès VPN,Problème d’accès / authentification
+b9_m3,Modérée,CRM ne charge pas les fiches clients,Bug ou dysfonctionnement d’un service
+b9_m4,Élevée,Panne du serveur de production - Service de facturation indisponible,Problème technique informatique
+b9_m5,Critique,Arrêt complet du système ERP - Incident critique,Demande de support utilisateur
+b10_m1,Anodine,Demande de documentation pour nouvelle version de logiciel,Demande de support utilisateur
+b10_m2,Faible,Petit problème de mise en page sur le site web,Bug ou dysfonctionnement d’un service
+b10_m3,Modérée,Problème d'accès au système de gestion de projet,Problème d’accès / authentification
+b10_m4,Élevée,Panne du serveur de données,Problème technique informatique
+b10_m5,Critique,Faille de sécurité détectée dans le système de paiement en ligne,Problème technique informatique
+b11_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b11_m2,Faible,Mot de passe oublié pour l’accès au portail intranet,Problème d’accès / authentification
+b11_m3,Modérée,Erreur 500 lors de l’utilisation du module de facturation,Bug ou dysfonctionnement d’un service
+b11_m4,Élevée,Application mobile ne se synchronise pas avec le serveur,Demande de support utilisateur
+b11_m5,Critique,"Panne serveur de production, indisponibilité totale du site e-commerce",Problème technique informatique
+b12_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b12_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d'accès / authentification
+b12_m3,Modérée,Bug sur le logiciel de gestion de projet,Bug ou dysfonctionnement d'un service
+b12_m4,Élevée,Problème de serveur : accès aux données compromis,Problème technique informatique
+b12_m5,Critique,Attaque de sécurité : données sensibles exposées,Problème technique informatique
+b13_m1,Anodine,Demande de mise à jour de logiciel de facturation,Demande administrative
+b13_m2,Faible,Problème d’impression sur le scanner du bureau 3,Problème technique informatique
+b13_m3,Modérée,Bug : page de connexion du portail intranet ne se charge pas,Bug ou dysfonctionnement d’un service
+b13_m4,Élevée,Problème d’accès au VPN depuis le télétravail,Problème d’accès / authentification
+b13_m5,Critique,Interruption totale du service de messagerie pour l’ensemble du siège,Demande de support utilisateur
+b14_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b14_m2,Faible,Problème de connexion à l’application interne,Problème d’accès / authentification
+b14_m3,Modérée,Erreur de calcul sur la plateforme de facturation,Bug ou dysfonctionnement d’un service
+b14_m4,Élevée,Assistance requise pour la migration des données clients,Demande de support utilisateur
+b14_m5,Critique,Panne serveur de production - indisponibilité totale,Problème technique informatique
+b15_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b15_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b15_m3,Modérée,Demande de support pour un logiciel spécifique,Demande de support utilisateur
+b15_m4,Élevée,Problème d'accès aux données sensibles,Problème d'accès / authentification
+b15_m5,Critique,Panne du système de gestion de production,Bug ou dysfonctionnement d'un service
+b16_m1,Anodine,Demande de badge d'accès supplémentaire,Demande administrative
+b16_m2,Faible,Problème de réinitialisation de mot de passe,Problème d’accès / authentification
+b16_m3,Modérée,Retard dans la réception des emails du service X,Bug ou dysfonctionnement d’un service
+b16_m4,Élevée,Imprimante du bureau 5 ne répond pas,Demande de support utilisateur
+b16_m5,Critique,Arrêt complet du serveur de production,Problème technique informatique
+b17_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b17_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b17_m3,Modérée,Demande de support pour un logiciel,Demande de support utilisateur
+b17_m4,Élevée,Problème d'accès aux données confidentielles,Problème d'accès / authentification
+b17_m5,Critique,Panne du serveur principal,Bug ou dysfonctionnement d’un service
+b18_m1,Anodine,Demande de mise à jour du logiciel de comptabilité,Demande administrative
+b18_m2,Faible,Problème d’accès à l’intranet depuis le bureau secondaire,Problème d’accès / authentification
+b18_m3,Modérée,Erreur de synchronisation des données sur le portail client,Bug ou dysfonctionnement d’un service
+b18_m4,Élevée,Panne du serveur de messagerie interne,Problème technique informatique
+b18_m5,Critique,Incident critique : perte de données sur le serveur de sauvegarde,Demande de support utilisateur
+b19_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b19_m2,Faible,Mot de passe oublié sur le portail intranet,Problème d’accès / authentification
+b19_m3,Modérée,Erreur 500 lors de l'accès à la plateforme de facturation,Bug ou dysfonctionnement d’un service
+b19_m4,Élevée,Problème de synchronisation des données sur l'application mobile,Demande de support utilisateur
+b19_m5,Critique,Panne du serveur de messagerie interne,Problème technique informatique
+b20_m1,Anodine,Demande de congé pour le 12 juin,Demande administrative
+b20_m2,Faible,Impossible de se connecter à l’intranet depuis le bureau,Problème d’accès / authentification
+b20_m3,Modérée,Erreur de paiement sur la plateforme de facturation,Bug ou dysfonctionnement d’un service
+b20_m4,Élevée,Panne du serveur de messagerie interne,Problème technique informatique
+b20_m5,Critique,Perte de données critiques suite à un crash du logiciel de gestion,Demande de support utilisateur
+b21_m1,Anodine,Demande de fournitures de bureau,Demande administrative
+b21_m2,Faible,Petite erreur de mise à jour sur l’intranet,Problème technique informatique
+b21_m3,Modérée,Problème d’accès à l’application RH,Problème d’accès / authentification
+b21_m4,Élevée,Arrêt du serveur de production - impact sur plusieurs services,Bug ou dysfonctionnement d’un service
+b21_m5,Critique,Violation de données sensibles - action urgente requise,Problème d’accès / authentification
+b22_m1,Critique,Incident critique : perte de données sur le serveur de sauvegarde,Demande de support utilisateur
+b22_m2,Faible,Problème d'authentification sur l'outil de gestion des factures,Problème d’accès / authentification
+b22_m3,Modérée,Erreur 500 lors de la consultation des rapports mensuels,Bug ou dysfonctionnement d’un service
+b22_m4,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b22_m5,Élevée,Panne du serveur de messagerie interne,Problème technique informatique
+b23_m1,Anodine,Demande de renseignements sur les formations disponibles,Demande administrative
+b23_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d’accès / authentification
+b23_m3,Modérée,Bug dans l’application de gestion de projet,Bug ou dysfonctionnement d’un service
+b23_m4,Élevée,Problème de serveur : impossibilité d’accéder aux données,Problème technique informatique
+b23_m5,Critique,Attaque de sécurité en cours : données sensibles menacées,Problème technique informatique
+b24_m1,Anodine,Demande de fournitures de bureau,Demande administrative
+b24_m2,Faible,Petite anomalie dans le tableau de bord,Bug ou dysfonctionnement d’un service
+b24_m3,Modérée,Erreur de connexion à la base de données interne,Problème technique informatique
+b24_m4,Élevée,Blocage de compte utilisateur après tentative de connexion,Problème d’accès / authentification
+b24_m5,Critique,Panne totale du serveur de production,Demande de support utilisateur
+b25_m1,Anodine,Demande d'information sur les formations disponibles,Demande d'information
+b25_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b25_m3,Modérée,Demande de support pour un logiciel,Demande de support utilisateur
+b25_m4,Élevée,Problème d'accès aux données sensibles,Problème d'accès / authentification
+b25_m5,Critique,Panne du système de gestion de production,Bug ou dysfonctionnement d'un service
+b26_m1,Anodine,Demande de renseignements sur les formations disponibles,Demande de support utilisateur
+b26_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b26_m3,Modérée,Demande d’assistance pour la configuration d’un nouvel ordinateur,Demande de support utilisateur
+b26_m4,Élevée,Problème d’authentification pour un service essentiel,Problème d’accès / authentification
+b26_m5,Critique,Panne du système de gestion de données,Bug ou dysfonctionnement d’un service
+b27_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b27_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b27_m3,Modérée,Demande de support pour une application métier,Demande de support utilisateur
+b27_m4,Élevée,Problème d'accès aux données confidentielles,Problème d'accès / authentification
+b27_m5,Critique,Panne majeure du système de gestion de production,Bug ou dysfonctionnement d’un service
+b28_m1,Anodine,Demande de renseignements sur les formations disponibles,Demande administrative
+b28_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b28_m3,Modérée,Demande de support pour une application métier,Demande de support utilisateur
+b28_m4,Élevée,Problème d'accès aux données confidentielles,Problème d'accès / authentification
+b28_m5,Critique,Panne du serveur principal de l'entreprise,Bug ou dysfonctionnement d'un service
+b29_m1,Anodine,Demande de renseignements sur les formations proposées,Demande administrative
+b29_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b29_m3,Modérée,Demande de support pour un logiciel,Demande de support utilisateur
+b29_m4,Élevée,Problème d’authentification sur le portail client,Problème d’accès / authentification
+b29_m5,Critique,Panne majeure du système de gestion de données,Bug ou dysfonctionnement d’un service
+b30_m1,Anodine,Demande de copie de facture,Demande administrative
+b30_m2,Faible,Imprimante réseau ne fonctionne pas,Problème technique informatique
+b30_m3,Modérée,Bug sur le portail intranet – formulaire de congé non enregistré,Bug ou dysfonctionnement d’un service
+b30_m4,Élevée,Problème d’authentification VPN,Problème d’accès / authentification
+b30_m5,Critique,Système de facturation interne hors service,Problème technique informatique
+b31_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b31_m2,Faible,Mot de passe oublié sur le portail intranet,Problème d’accès / authentification
+b31_m3,Modérée,Erreur 500 lors de l'accès à l'application de gestion des stocks,Bug ou dysfonctionnement d’un service
+b31_m4,Élevée,Panne du serveur de messagerie interne,Problème technique informatique
+b31_m5,Critique,Incident critique : panne totale du système de pointage en salle de réunion,Demande de support utilisateur
+b32_m1,Anodine,Demande de badge d’accès pour nouvel employé,Demande administrative
+b32_m2,Faible,Réinitialisation du mot de passe VPN,Problème d’accès / authentification
+b32_m3,Modérée,Erreur de taille de pièce jointe dans Outlook,Bug ou dysfonctionnement d’un service
+b32_m4,Élevée,Imprimante du salon de conférence bloquée,Demande de support utilisateur
+b32_m5,Critique,Panne critique du serveur de base de données production,Problème technique informatique
+b33_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b33_m2,Faible,Problème d'accès à l'application mobile,Problème d’accès / authentification
+b33_m3,Modérée,Erreur 500 lors de la génération de rapports PDF,Bug ou dysfonctionnement d’un service
+b33_m4,Élevée,Synchronisation des contacts Outlook interrompue,Demande de support utilisateur
+b33_m5,Critique,Panne du serveur de messagerie interne,Problème technique informatique
+b34_m1,Anodine,Demande de renseignements sur les formations disponibles,Demande administrative
+b34_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b34_m3,Modérée,Bug sur le site web de l’entreprise,Bug ou dysfonctionnement d’un service
+b34_m4,Élevée,Problème d’authentification pour les utilisateurs,Problème d’accès / authentification
+b34_m5,Critique,Attaque de sécurité en cours,Problème technique informatique
+b35_m1,Anodine,Demande de mise à jour de mon adresse e-mail professionnelle,Demande administrative
+b35_m2,Faible,Problème de connexion à l'imprimante réseau du bureau 3,Problème d’accès / authentification
+b35_m3,Modérée,Dysfonctionnement de la page d'accueil du portail intranet,Bug ou dysfonctionnement d’un service
+b35_m4,Élevée,Demande d'accès à Jira pour le nouveau collaborateur,Demande de support utilisateur
+b35_m5,Critique,Interruption totale du service de messagerie interne,Problème technique informatique
+b36_m1,Anodine,Demande de cartes de visite pour le nouveau directeur,Demande administrative
+b36_m2,Faible,Problème de mise en page sur le rapport annuel,Problème technique informatique
+b36_m3,Modérée,Impossible d’accéder au VPN depuis le bureau,Problème d’accès / authentification
+b36_m4,Élevée,Arrêt complet du portail RH interne,Bug ou dysfonctionnement d’un service
+b36_m5,Critique,Violation de données sensibles détectée sur le serveur de production,Problème technique informatique
+b37_m1,Anodine,Création de compte utilisateur pour le nouveau stagiaire,Demande administrative
+b37_m2,Faible,Imprimante réseau HP LaserJet 4000 en erreur de papier,Problème technique informatique
+b37_m3,Modérée,Erreur de chargement du tableau de bord du portail RH,Bug ou dysfonctionnement d’un service
+b37_m4,Élevée,Impossible de se connecter au VPN depuis le bureau,Problème d’accès / authentification
+b37_m5,Critique,Arrêt complet du serveur de production srv-prod-01,Problème technique informatique
+b38_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b38_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b38_m3,Modérée,Demande de support pour un logiciel spécifique,Demande de support utilisateur
+b38_m4,Élevée,Problème d'accès aux données sensibles,Problème d’accès / authentification
+b38_m5,Critique,Panne du serveur principal,Bug ou dysfonctionnement d’un service
+b39_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b39_m2,Faible,Problème d'accès à l'outil de gestion des tâches,Problème d’accès / authentification
+b39_m3,Modérée,Bug affichage des rapports mensuels,Bug ou dysfonctionnement d’un service
+b39_m4,Élevée,Besoin d'assistance pour la configuration du VPN,Demande de support utilisateur
+b39_m5,Critique,Panne serveur de production – arrêt complet,Problème technique informatique
+b40_m1,Anodine,Demande d'information sur les formations disponibles,Demande de support utilisateur
+b40_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d’accès / authentification
+b40_m3,Modérée,Bug dans l'application de gestion de projet,Bug ou dysfonctionnement d’un service
+b40_m4,Élevée,Problème de serveur : accès aux données compromis,Problème technique informatique
+b40_m5,Critique,Attaque de sécurité en cours : demande d'intervention immédiate,Problème technique informatique
+b41_m1,Anodine,Demande de congé maternité,Demande administrative
+b41_m2,Faible,Mot de passe oublié pour le portail intranet,Problème d’accès / authentification
+b41_m3,Modérée,Erreur 500 sur la page de facturation,Bug ou dysfonctionnement d’un service
+b41_m4,Élevée,Serveur de fichiers indisponible,Problème technique informatique
+b41_m5,Critique,Panne totale du système de pointage pour la salle de réunion,Demande de support utilisateur
+b42_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b42_m2,Faible,Problème mineur avec l'imprimante,Problème technique informatique
+b42_m3,Modérée,Accès refusé à une ressource partagée,Problème d’accès / authentification
+b42_m4,Élevée,Problème de connexion au système de gestion de projet,Problème technique informatique
+b42_m5,Critique,Panne majeure du serveur principal,Problème technique informatique
+b43_m1,Anodine,Demande de congé maladie,Demande administrative
+b43_m2,Faible,Impossible de se connecter à l'outil CRM,Problème d’accès / authentification
+b43_m3,Modérée,Erreur 500 sur le portail intranet,Bug ou dysfonctionnement d’un service
+b43_m4,Élevée,Aide pour la configuration du VPN,Demande de support utilisateur
+b43_m5,Critique,Panne du serveur de production,Problème technique informatique
+b44_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b44_m2,Faible,Problème de connexion à l’application interne,Problème d’accès / authentification
+b44_m3,Modérée,Erreur lors de la génération de rapports PDF,Bug ou dysfonctionnement d’un service
+b44_m4,Élevée,Serveur de messagerie indisponible depuis 2h,Problème technique informatique
+b44_m5,Critique,"Panne critique du système de facturation, arrêt complet",Demande de support utilisateur
+b45_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b45_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b45_m3,Modérée,Demande de support pour un logiciel,Demande de support utilisateur
+b45_m4,Élevée,Problème d'accès aux données confidentielles,Problème d'accès / authentification
+b45_m5,Critique,Panne du serveur principal,Bug ou dysfonctionnement d'un service
+b46_m1,Anodine,Demande de congé annuel,Demande administrative
+b46_m2,Faible,Mot de passe oublié sur le portail intranet,Problème d’accès / authentification
+b46_m3,Modérée,Erreur 500 lors de l’accès à la plateforme de facturation,Bug ou dysfonctionnement d’un service
+b46_m4,Élevée,Panne du serveur de messagerie interne,Problème technique informatique
+b46_m5,Critique,Incident de sécurité - données sensibles exposées,Demande de support utilisateur
+b47_m1,Anodine,Demande de mise à jour de l'outil de gestion de projet,Demande administrative
+b47_m2,Faible,Problème de connexion à l'imprimante réseau,Problème technique informatique
+b47_m3,Modérée,Bug sur la page de facturation du portail client,Bug ou dysfonctionnement d’un service
+b47_m4,Élevée,Erreur d'authentification sur le portail intranet,Problème d’accès / authentification
+b47_m5,Critique,URGENT : Panne complète du serveur de base de données de production,Demande de support utilisateur
+b48_m1,Anodine,Demande de mise à jour de mon badge d'accès,Demande administrative
+b48_m2,Faible,Problème d'affichage du tableau de bord – couleur de fond incorrecte,Bug ou dysfonctionnement d’un service
+b48_m3,Modérée,Erreur 401 lors de la connexion à la plateforme de formation,Problème d’accès / authentification
+b48_m4,Élevée,Erreur 502 sur le serveur d'impression des rapports mensuels,Problème technique informatique
+b48_m5,Critique,Système de paiement en ligne hors service – impact sur les ventes,Bug ou dysfonctionnement d’un service
+b49_m1,Anodine,Demande de documentation pour nouvelle version de logiciel,Demande de support utilisateur
+b49_m2,Faible,Problème mineur de mise en page sur site web,Bug ou dysfonctionnement d’un service
+b49_m3,Modérée,Accès refusé à certaines fonctionnalités du système,Problème d’accès / authentification
+b49_m4,Élevée,Problème technique avec le serveur de messagerie,Problème technique informatique
+b49_m5,Critique,Attaque de sécurité en cours sur nos systèmes,Problème technique informatique
+b50_m1,Anodine,Demande de renseignements sur les formations disponibles,Demande administrative
+b50_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b50_m3,Modérée,Demande de support pour un logiciel spécifique,Demande de support utilisateur
+b50_m4,Élevée,Problème d’accès au système de gestion de projet,Problème d’accès / authentification
+b50_m5,Critique,Panne du serveur principal,Bug ou dysfonctionnement d’un service
+b51_m1,Anodine,Demande de chaise ergonomique pour le bureau,Demande administrative
+b51_m2,Faible,Bug : icône manquante sur le portail intranet,Bug ou dysfonctionnement d’un service
+b51_m3,Modérée,Demande de réinitialisation de mot de passe VPN,Problème d’accès / authentification
+b51_m4,Élevée,Arrêt du serveur de production : intervention urgente requise,Problème technique informatique
+b51_m5,Critique,Violation de données sensibles détectée - Action immédiate nécessaire,Problème technique informatique
+b52_m1,Anodine,Demande de congés pour la semaine prochaine,Demande administrative
+b52_m2,Faible,Mot de passe oublié pour l’accès VPN,Problème d’accès / authentification
+b52_m3,Modérée,Erreur 500 sur le portail intranet,Bug ou dysfonctionnement d’un service
+b52_m4,Élevée,Impression PDF impossible sur le poste de travail,Demande de support utilisateur
+b52_m5,Critique,"Panne réseau dans le bâtiment B, arrêt complet des services",Problème technique informatique
+b53_m1,Anodine,Demande de copie du manuel de sécurité interne,Demande administrative
+b53_m2,Faible,Erreur lors de l'ouverture du fichier Excel de reporting mensuel,Problème technique informatique
+b53_m3,Modérée,Problème d'accès VPN depuis le bureau à distance,Problème d’accès / authentification
+b53_m4,Élevée,Demande de support : problème de synchronisation des contacts Outlook,Demande de support utilisateur
+b53_m5,Critique,Application de facturation hors service – impact sur les ventes,Bug ou dysfonctionnement d’un service
+b54_m1,Anodine,Demande de fournitures de bureau pour le département marketing,Demande administrative
+b54_m2,Faible,Problème de connexion à l’adresse e‑mail interne,Problème d’accès / authentification
+b54_m3,Modérée,Erreur de synchronisation dans le module de facturation CRM,Bug ou dysfonctionnement d’un service
+b54_m4,Élevée,Panne du serveur de production – impact sur les ventes en ligne,Problème technique informatique
+b54_m5,Critique,Blocage complet du système ERP – urgence critique,Problème d’accès / authentification
+b55_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b55_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b55_m3,Modérée,Demande de support pour une application métier,Demande de support utilisateur
+b55_m4,Élevée,Problème d'accès aux données confidentielles,Problème d’accès / authentification
+b55_m5,Critique,Panne du serveur principal de production,Bug ou dysfonctionnement d’un service
+b56_m1,Anodine,Demande d'information sur les formations disponibles,Demande de support utilisateur
+b56_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d'accès / authentification
+b56_m3,Modérée,Bug dans l'application de gestion de projet,Bug ou dysfonctionnement d'un service
+b56_m4,Élevée,Problème de serveur : perte de données,Problème technique informatique
+b56_m5,Critique,Attaque de sécurité en cours : nécessité d'intervention immédiate,Problème technique informatique
+b57_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b57_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b57_m3,Modérée,Bug dans l’application de gestion de projet,Bug ou dysfonctionnement d’un service
+b57_m4,Élevée,Problème d’accès aux données confidentielles,Problème d’accès / authentification
+b57_m5,Critique,Attaque de phishing en cours contre nos employés,Problème technique informatique
+b58_m1,Anodine,Demande de renseignement sur les formations disponibles,Demande administrative
+b58_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d’accès / authentification
+b58_m3,Modérée,Bug dans l'application de gestion de projet,Bug ou dysfonctionnement d’un service
+b58_m4,Élevée,Problème de serveur : impossibilité d'accéder aux données,Problème technique informatique
+b58_m5,Critique,Attaque de phishing en cours : sécurité compromise,Problème de sécurité
+b59_m1,Anodine,Demande de renseignements sur les formations disponibles,Demande administrative
+b59_m2,Faible,Problème mineur avec l'imprimante du bureau,Problème technique informatique
+b59_m3,Modérée,Accès refusé au système de gestion de projet,Problème d’accès / authentification
+b59_m4,Élevée,Bug sur le site web de l'entreprise,Bug ou dysfonctionnement d’un service
+b59_m5,Critique,Panne du serveur principal,Problème technique informatique
+b60_m1,Anodine,Demande de mise à jour de coordonnées personnelles,Demande administrative
+b60_m2,Faible,Problème de connexion au VPN depuis le bureau,Problème d’accès / authentification
+b60_m3,Modérée,Erreur 500 lors de l'accès au portail RH,Bug ou dysfonctionnement d’un service
+b60_m4,Élevée,Demande d'installation de logiciel de gestion de projet,Demande de support utilisateur
+b60_m5,Critique,"Panne du serveur de messagerie, impact sur l'ensemble de l'entreprise",Problème technique informatique
+b61_m1,Anodine,Demande de documentation pour un nouveau projet,Demande administrative
+b61_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b61_m3,Modérée,Bug dans l'application de gestion de projet,Bug ou dysfonctionnement d’un service
+b61_m4,Élevée,Problème d'accès aux données confidentielles,Problème d’accès / authentification
+b61_m5,Critique,Attaque de sécurité en cours contre nos serveurs,Problème technique informatique
+b62_m1,Anodine,Demande de mise à jour de la documentation interne,Demande administrative
+b62_m2,Faible,Problème d’accès à la plateforme de formation en ligne,Problème d’accès / authentification
+b62_m3,Modérée,Bug : affichage incorrect des rapports mensuels,Bug ou dysfonctionnement d’un service
+b62_m4,Élevée,Urgent : panne du serveur de messagerie interne,Problème technique informatique
+b62_m5,Critique,Incident majeur : perte de données sur le serveur de sauvegarde,Bug ou dysfonctionnement d’un service
+b63_m1,Anodine,Demande de congé maternité,Demande administrative
+b63_m2,Faible,Mot de passe oublié sur l’application interne,Problème d’accès / authentification
+b63_m3,Modérée,Erreur 500 sur le portail de facturation,Bug ou dysfonctionnement d’un service
+b63_m4,Élevée,Impression de rapports PDF impossible depuis le nouveau module,Demande de support utilisateur
+b63_m5,Critique,"Panne serveur de production, indisponibilité totale",Problème technique informatique
+b64_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b64_m2,Faible,Mot de passe oublié sur le portail intranet,Problème d’accès / authentification
+b64_m3,Modérée,Erreur 500 lors de la consultation des rapports mensuels,Bug ou dysfonctionnement d’un service
+b64_m4,Élevée,Impression des rapports PDF impossible depuis le serveur de fichiers,Problème technique informatique
+b64_m5,Critique,"Panne totale du système de gestion des ventes, arrêt complet de l’activité",Demande de support utilisateur
+b65_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b65_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d’accès / authentification
+b65_m3,Modérée,Besoin d'assistance pour la configuration d'un nouvel ordinateur,Demande de support utilisateur
+b65_m4,Élevée,Problème critique avec la base de données,Problème technique informatique
+b65_m5,Critique,Attaque de phishing en cours,Bug ou dysfonctionnement d’un service
+b66_m1,Anodine,Demande de renseignements sur les formations disponibles,Demande administrative
+b66_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b66_m3,Modérée,Demande de support pour un logiciel de gestion de projet,Demande de support utilisateur
+b66_m4,Élevée,Problème d'accès à une base de données,Problème d'accès / authentification
+b66_m5,Critique,Panne du serveur principal,Bug ou dysfonctionnement d'un service
+b67_m1,Anodine,Demande de renseignement sur les formations disponibles,Demande de support utilisateur
+b67_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b67_m3,Modérée,Demande de réinitialisation de mot de passe,Problème d’accès / authentification
+b67_m4,Élevée,Problème de serveur : impossibilité d’accéder aux données,Bug ou dysfonctionnement d’un service
+b67_m5,Critique,Attaque de sécurité en cours : données sensibles exposées,Problème technique informatique
+b68_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b68_m2,Faible,Problème mineur avec l'imprimante,Problème technique informatique
+b68_m3,Modérée,Demande de support pour un logiciel,Demande de support utilisateur
+b68_m4,Élevée,Problème d'accès au système de gestion,Problème d’accès / authentification
+b68_m5,Critique,Panne critique du serveur principal,Bug ou dysfonctionnement d’un service
+b69_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b69_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b69_m3,Modérée,Demande de support pour un logiciel spécifique,Demande de support utilisateur
+b69_m4,Élevée,Problème d'accès aux données confidentielles,Problème d'accès / authentification
+b69_m5,Critique,Panne majeure du système de gestion de production,Bug ou dysfonctionnement d’un service
+b70_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b70_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b70_m3,Modérée,Demande de support pour une application métier,Demande de support utilisateur
+b70_m4,Élevée,Problème d'accès aux données confidentielles,Problème d'accès / authentification
+b70_m5,Critique,Panne majeure du serveur principal,Bug ou dysfonctionnement d’un service
+b71_m1,Anodine,Demande de réapprovisionnement de fournitures de bureau,Demande administrative
+b71_m2,Faible,Problème d'accès à l'outil de gestion des tickets,Problème d’accès / authentification
+b71_m3,Modérée,Bounce d'e-mails marketing sur le serveur de messagerie,Bug ou dysfonctionnement d’un service
+b71_m4,Élevée,Blocage du CRM – besoin d'assistance immédiate,Demande de support utilisateur
+b71_m5,Critique,Arrêt complet du serveur de production – urgence critique,Problème technique informatique
+b72_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b72_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d'accès / authentification
+b72_m3,Modérée,Bug sur le site web de l'entreprise,Bug ou dysfonctionnement d'un service
+b72_m4,Élevée,Problème de serveur - Impact sur la production,Problème technique informatique
+b72_m5,Critique,Attaque de sécurité en cours - Données sensibles exposées,Problème technique informatique
+b73_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b73_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d’accès / authentification
+b73_m3,Modérée,Bug sur le logiciel de gestion de projet,Bug ou dysfonctionnement d’un service
+b73_m4,Élevée,Problème de serveur : accès aux données compromis,Problème technique informatique
+b73_m5,Critique,Attaque de sécurité en cours : système compromis,Problème technique informatique
+b74_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b74_m2,Faible,Problème mineur avec l'imprimante du bureau,Problème technique informatique
+b74_m3,Modérée,Demande de support pour un utilisateur ayant des difficultés avec son compte,Demande de support utilisateur
+b74_m4,Élevée,Problème d'accès au système de gestion de données,Problème d'accès / authentification
+b74_m5,Critique,Bug critique dans le système de paiement en ligne,Bug ou dysfonctionnement d'un service
+b75_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b75_m2,Faible,Problème d'accès à la messagerie Outlook,Problème d’accès / authentification
+b75_m3,Modérée,Erreur 500 lors de l'accès à la plateforme de facturation,Bug ou dysfonctionnement d’un service
+b75_m4,Élevée,Panne du serveur de base de données principale,Problème technique informatique
+b75_m5,Critique,Incident majeur : perte de données sur le serveur de sauvegarde,Demande de support utilisateur
+b76_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b76_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b76_m3,Modérée,Demande de support pour un logiciel spécifique,Demande de support utilisateur
+b76_m4,Élevée,Problème d'accès aux données confidentielles,Problème d'accès / authentification
+b76_m5,Critique,Panne du serveur principal,Bug ou dysfonctionnement d’un service
+b77_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b77_m2,Faible,Erreur de connexion à l’intranet depuis le bureau de Paris,Problème d’accès / authentification
+b77_m3,Modérée,Plantage de la plateforme de gestion des commandes en fin de journée,Bug ou dysfonctionnement d’un service
+b77_m4,Élevée,Utilisateur ne peut pas imprimer depuis le nouveau poste,Demande de support utilisateur
+b77_m5,Critique,Panne totale du serveur de production après mise à jour,Problème technique informatique
+b78_m1,Anodine,Demande de mise à jour de mon profil,Demande administrative
+b78_m2,Faible,Problème de connexion à Office 365,Problème d’accès / authentification
+b78_m3,Modérée,Intranet lent depuis plusieurs jours,Bug ou dysfonctionnement d’un service
+b78_m4,Élevée,Serveur de fichiers hors ligne,Problème technique informatique
+b78_m5,Critique,Perte de données sur poste de travail,Demande de support utilisateur
+b79_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b79_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b79_m3,Modérée,Demande de support pour un logiciel spécifique,Demande de support utilisateur
+b79_m4,Élevée,Problème d'accès aux données critiques,Problème d'accès / authentification
+b79_m5,Critique,Panne majeure du système de gestion des commandes,Bug ou dysfonctionnement d’un service
+b80_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b80_m2,Faible,Problème de connexion à l’outil de gestion de projet,Problème d’accès / authentification
+b80_m3,Modérée,Erreur de facturation sur le portail client,Bug ou dysfonctionnement d’un service
+b80_m4,Élevée,Demande d’assistance pour l’installation de la nouvelle version de l’application mobile,Demande de support utilisateur
+b80_m5,Critique,Panne du serveur de production – indisponibilité totale,Problème technique informatique
+b81_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b81_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d'accès / authentification
+b81_m3,Modérée,Bug sur l'application de gestion de projet,Bug ou dysfonctionnement d'un service
+b81_m4,Élevée,Problème de serveur - Accès aux données bloqué,Problème technique informatique
+b81_m5,Critique,Attaque de sécurité en cours - Données sensibles exposées,Problème technique informatique
+b82_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b82_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d’accès / authentification
+b82_m3,Modérée,Bug dans l'application de gestion de projet,Bug ou dysfonctionnement d’un service
+b82_m4,Élevée,Problème de sécurité avec un ordinateur portable,Problème technique informatique
+b82_m5,Critique,Panne du serveur principal,Problème technique informatique
+b83_m1,Anodine,Demande de renseignement sur les formations disponibles,Demande administrative
+b83_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b83_m3,Modérée,Demande de support pour un logiciel spécifique,Demande de support utilisateur
+b83_m4,Élevée,Problème d'accès aux données sensibles,Problème d'accès / authentification
+b83_m5,Critique,Panne du serveur principal,Problème technique informatique
+b84_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b84_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b84_m3,Modérée,Demande de support pour un logiciel,Demande de support utilisateur
+b84_m4,Élevée,Problème d'accès aux données confidentielles,Problème d'accès / authentification
+b84_m5,Critique,Panne du système de gestion de production,Bug ou dysfonctionnement d’un service
+b85_m1,Anodine,Demande de mise à jour des coordonnées personnelles,Demande administrative
+b85_m2,Faible,Imprimante réseau du bureau 3 hors service,Problème technique informatique
+b85_m3,Modérée,Bug dans le tableau de bord de reporting,Bug ou dysfonctionnement d’un service
+b85_m4,Élevée,Problème d'authentification sur le portail intranet,Problème d’accès / authentification
+b85_m5,Critique,Panne totale du serveur de messagerie interne,Demande de support utilisateur
+b86_m1,Anodine,Demande d'informations sur les formations disponibles,Demande administrative
+b86_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b86_m3,Modérée,Demande de support pour un logiciel,Demande de support utilisateur
+b86_m4,Élevée,Problème d'accès à la base de données,Problème d'accès / authentification
+b86_m5,Critique,Panne du serveur principal,Bug ou dysfonctionnement d’un service
+b87_m1,Anodine,Demande de renseignement sur les formations disponibles,Demande de support utilisateur
+b87_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b87_m3,Modérée,Demande de réinitialisation de mot de passe,Problème d’accès / authentification
+b87_m4,Élevée,Problème de serveur : impossibilité d'accéder aux données,Bug ou dysfonctionnement d’un service
+b87_m5,Critique,Attaque de sécurité en cours : données sensibles compromises,Problème technique informatique
+b88_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b88_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d'accès / authentification
+b88_m3,Modérée,Bug sur le logiciel de gestion de projet,Bug ou dysfonctionnement d'un service
+b88_m4,Élevée,Problème technique avec l'imprimante réseau,Problème technique informatique
+b88_m5,Critique,Panne du serveur principal,Problème technique informatique
+b89_m1,Anodine,Mise à jour de mon adresse e‑mail dans le système RH,Demande administrative
+b89_m2,Faible,Problème d’accès VPN – mot de passe refusé,Problème d’accès / authentification
+b89_m3,Modérée,Bug : page d’accueil du portail intranet affiche une erreur 404,Bug ou dysfonctionnement d’un service
+b89_m4,Élevée,Impression réseau indisponible – problème technique critique,Problème technique informatique
+b89_m5,Critique,Urgent : serveur de messagerie hors service – impact sur l’ensemble de l’entreprise,Demande de support utilisateur
+b90_m1,Anodine,Demande de renseignements sur les formations disponibles,Demande administrative
+b90_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d’accès / authentification
+b90_m3,Modérée,Demande de support pour un logiciel,Demande de support utilisateur
+b90_m4,Élevée,Problème technique avec le serveur de production,Problème technique informatique
+b90_m5,Critique,Faille de sécurité sur le site web,Bug ou dysfonctionnement d’un service
+b91_m1,Anodine,Demande de formulaire de congé,Demande administrative
+b91_m2,Faible,Problème de connexion à Teams,Problème d’accès / authentification
+b91_m3,Modérée,Bounces des e‑mails support,Bug ou dysfonctionnement d’un service
+b91_m4,Élevée,Serveur de production hors ligne,Problème technique informatique
+b91_m5,Critique,Plantage du système de facturation en ligne,Demande de support utilisateur
+b92_m1,Anodine,Demande de licence pour nouvelle imprimante,Demande administrative
+b92_m2,Faible,Problème de connexion VPN,Problème d’accès / authentification
+b92_m3,Modérée,Erreur 500 sur le portail RH lors de la soumission des heures,Bug ou dysfonctionnement d’un service
+b92_m4,Élevée,Installation de Photoshop CC 2024 sur poste de travail marketing,Demande de support utilisateur
+b92_m5,Critique,Surchauffe du rack serveur 3 – intervention urgente requise,Problème technique informatique
+b93_m1,Anodine,Demande de copie de documents administratifs,Demande administrative
+b93_m2,Faible,Problème de connexion à l’imprimante réseau,Problème technique informatique
+b93_m3,Modérée,Bug dans la page de facturation du portail client,Bug ou dysfonctionnement d’un service
+b93_m4,Élevée,Demande d’assistance pour accès à l’outil de gestion RH,Problème d’accès / authentification
+b93_m5,Critique,Panne généralisée de la plateforme de formation en ligne,Demande de support utilisateur
+b94_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b94_m2,Faible,Mot de passe oublié sur le portail intranet,Problème d’accès / authentification
+b94_m3,Modérée,Erreur 500 lors de l'envoi de rapports hebdomadaires,Bug ou dysfonctionnement d’un service
+b94_m4,Élevée,Problème de synchronisation des contacts Outlook,Demande de support utilisateur
+b94_m5,Critique,Panne réseau critique sur le site de production,Problème technique informatique
+b95_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b95_m2,Faible,Mot de passe oublié sur le portail intranet,Problème d’accès / authentification
+b95_m3,Modérée,Erreur 500 sur la plateforme de facturation,Bug ou dysfonctionnement d’un service
+b95_m4,Élevée,Problème de synchronisation des contacts Outlook,Demande de support utilisateur
+b95_m5,Critique,Panne du serveur de messagerie – interruption totale,Problème technique informatique
+b96_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b96_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b96_m3,Modérée,Demande de support pour un logiciel spécifique,Demande de support utilisateur
+b96_m4,Élevée,Problème d'authentification sur le système de gestion de projet,Problème d'accès / authentification
+b96_m5,Critique,Panne du serveur principal de l'entreprise,Bug ou dysfonctionnement d'un service
+b97_m1,Anodine,Demande de mise à jour de mon mot de passe,Problème d’accès / authentification
+b97_m2,Faible,Problème d’impression sur le scanner de la salle B,Problème technique informatique
+b97_m3,Modérée,Bug dans la génération du rapport mensuel,Bug ou dysfonctionnement d’un service
+b97_m4,Élevée,Demande administrative urgente : changement d’adresse de facturation,Demande administrative
+b97_m5,Critique,Interruption totale du service de messagerie interne,Problème technique informatique
+b98_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b98_m2,Faible,Erreur d'authentification sur le portail intranet,Problème d’accès / authentification
+b98_m3,Modérée,Erreur 500 lors de l'envoi de rapports mensuels,Bug ou dysfonctionnement d’un service
+b98_m4,Élevée,Panne du serveur de messagerie interne,Problème technique informatique
+b98_m5,Critique,Interruption du service de téléphonie VoIP pour l'ensemble du bureau,Demande de support utilisateur
+b99_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b99_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b99_m3,Modérée,Demande de support pour un logiciel,Demande de support utilisateur
+b99_m4,Élevée,Problème d'accès aux données sensibles,Problème d'accès / authentification
+b99_m5,Critique,Panne majeure du système de production,Bug ou dysfonctionnement d’un service
+b100_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b100_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème d'accès / authentification
+b100_m3,Modérée,Bug sur le logiciel de gestion de projet,Bug ou dysfonctionnement d'un service
+b100_m4,Élevée,Problème de sécurité sur le serveur principal,Problème technique informatique
+b100_m5,Critique,Panne du système de gestion des commandes,Problème technique informatique
+b101_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b101_m2,Faible,Problème de connexion au réseau Wi-Fi,Problème technique informatique
+b101_m3,Modérée,Demande de support pour un logiciel,Demande de support utilisateur
+b101_m4,Élevée,Problème d'accès aux données confidentielles,Problème d’accès / authentification
+b101_m5,Critique,Panne du serveur principal,Bug ou dysfonctionnement d’un service
+b102_m1,Anodine,Demande de mise à jour des coordonnées bancaires,Demande administrative
+b102_m2,Faible,Problème de connexion à l’application interne,Problème d’accès / authentification
+b102_m3,Modérée,Erreur 500 sur le portail de facturation,Bug ou dysfonctionnement d’un service
+b102_m4,Élevée,Impression de rapports PDF impossible depuis le tableau de bord,Demande de support utilisateur
+b102_m5,Critique,Panne du serveur de base de données principale,Problème technique informatique
+b103_m1,Anodine,Écran de mon ordinateur portable clignote,Problème technique informatique
+b103_m2,Faible,Demande de congé pour la semaine du 12 juillet,Demande administrative
+b103_m3,Modérée,Impossible d’accéder au VPN depuis mon domicile,Problème d’accès / authentification
+b103_m4,Élevée,Problème de synchronisation du calendrier Outlook,Demande de support utilisateur
+b103_m5,Critique,ERP interne hors service – impact sur les ventes,Bug ou dysfonctionnement d’un service
+b104_m1,Anodine,Modification de signature Outlook,Demande administrative
+b104_m2,Faible,Impression couleur indisponible sur la photocopieuse X200,Problème technique informatique
+b104_m3,Modérée,"Accès refusé au dossier partagé ""Projets 2025""",Problème d’accès / authentification
+b104_m4,Élevée,Doublons clients dans le CRM,Bug ou dysfonctionnement d’un service
+b104_m5,Critique,Panne serveur de messagerie et intranet,Problème technique informatique
+b105_m1,Anodine,Demande d'information sur les formations disponibles,Demande administrative
+b105_m2,Faible,Problème de connexion à l'intranet,Problème d’accès / authentification
+b105_m3,Modérée,Bug sur le logiciel de gestion de projet,Bug ou dysfonctionnement d’un service
+b105_m4,Élevée,Problème technique avec le serveur de données,Problème technique informatique
+b105_m5,Critique,Attaque de sécurité en cours,Problème technique informatique
+b106_m1,Anodine,Demande de congés supplémentaires pour le mois de juillet,Demande administrative
+b106_m2,Faible,Problème d'accès au portail intranet,Problème d’accès / authentification
+b106_m3,Modérée,Erreur 500 sur l'application de facturation,Bug ou dysfonctionnement d’un service
+b106_m4,Élevée,Impression impossible sur le serveur d'impression,Demande de support utilisateur
+b106_m5,Critique,Panne réseau critique dans le datacenter,Problème technique informatique
+b107_m1,Anodine,Demande de mise à disposition d'une imprimante supplémentaire,Demande administrative
+b107_m2,Faible,Mot de passe VPN oublié,Problème d’accès / authentification
+b107_m3,Modérée,Erreur 500 sur le portail RH lors de la saisie des heures,Bug ou dysfonctionnement d’un service
+b107_m4,Élevée,Panne réseau dans l’étage 3,Problème technique informatique
+b107_m5,Critique,Perte de données critiques suite à un crash du serveur de fichiers,Demande de support utilisateur
+b108_m1,Anodine,Mise à jour des coordonnées de contact,Demande administrative
+b108_m2,Faible,Problème de mise en page sur la page d’accueil du site intranet,Bug ou dysfonctionnement d’un service
+b108_m3,Modérée,Demande de licence Office 365 pour le nouveau collaborateur,Demande de support utilisateur
+b108_m4,Élevée,Arrêt du serveur de production – impact sur le portail client,Problème technique informatique
+b108_m5,Critique,Incident de sécurité : fuite de données sensibles détectée,Problème d’accès / authentification
